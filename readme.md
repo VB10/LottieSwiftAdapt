@@ -1,4 +1,4 @@
-# Lottie IOS New Version Adapt
+# Lottie IOS To Adapt New Version
 
 ![lottie-gif](https://github.com/VB10/LottieSwiftAdapt/blob/master/github/bird.gif?raw=true)
 
